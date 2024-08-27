@@ -15,6 +15,7 @@ const person = {
     lastname: "Rajput",
     age: 24,
     height: 5.11,
+    
 }
 
 console.log("About myself" + person.firstname + ", " + person.lastname + ", " + person.age + ", " + person.height);
