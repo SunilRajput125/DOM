@@ -8,7 +8,7 @@
 const name = "Sumil"
 const repoCount = 56
 
-console.log( name + repoCount + "Value");
+// /console.log( name + repoCount + "Value");
 
 let newOne = "Noman"
 
@@ -16,7 +16,19 @@ let oldOne = "Samason"
 
 let thirdOne = (`Sunil and ${newOne} and  ${oldOne} are bestfrnd`);
 
-console.log(newOne,oldOne,thirdOne.slice(8));
+// console.log(newOne,oldOne,thirdOne.slice(8));
+
+// **************** Num & Math **************** //
+
+
+let Num1 = 234
+
+let Num2 = "345"
+
+
+console.log(typeof Num1);
+
+
 
 
 
